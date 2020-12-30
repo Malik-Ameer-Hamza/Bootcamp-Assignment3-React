@@ -6,7 +6,7 @@ import './index.css';
 ReactDom.render(
 
   <>
-  <h1 className='heading_style'>Bootcamp Components in React Assignment 3 By Ameer Hamza</h1>
+  <h1 className='heading_style'>Bootcamp Components in React (Assignment 3) By Ameer Hamza</h1>
   <Card sname='Dark'
         imgsrc="../images/dark.jpg"
         title='A Netflix Orignial Series'
